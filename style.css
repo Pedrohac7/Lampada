@@ -1,0 +1,16 @@
+img {
+    height: 700pt;
+    width: 700pt;
+    display: block;
+    margin: auto;
+}
+div{
+    display: flex;
+  justify-content: center;
+ 
+}
+input{
+    height: 100pt;
+    width: 200pt;
+  margin: 20pt; 
+}
